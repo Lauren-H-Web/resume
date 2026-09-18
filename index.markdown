@@ -39,6 +39,6 @@ This was one of the first class collaborative projects I worked on in college. F
 
 I designed a book cover (*front and back*) for *The Great Gatsby* using a book from [The Gultenburg Project](https://www.gutenberg.org). 
 
-![TGG Book Cover Mockup front](DESN156_ONA_A4_Mockupcopy.jpg)
+![TGG Book Cover Mockup front](DESN156_ONA_A4_Mockup-copy.jpg)
 
 I worked on a book cover for an assignment with a book from the [Gultenburg Project](https://www.gutenberg.org) website. I chose to design a cover for The Great Gatsby 
