@@ -26,8 +26,8 @@ In high school I was it M&T for a semester. I worked on some projects that would
 
 ![Banner](1777391697771-a5ad4a21-5fdf-438e-b0a0-2d76ad3fb78e_1.jpg)
 
-### Album Cover
+### Album Cover Mockups
 
-This was one of the first class collaborative projects I worked on in college. For this project I designed album covers for a made up band based on a theme.
+This was one of the first class collaborative projects I worked on in college. For this project I designed album covers for two made-up bands, using a music genre as a base. I chose grunge and pop music. 
 
-![
+![Album 2 Mockup front](Album-2-Front-Vinyl-Record-Mockup copy.jpg)
