@@ -4,4 +4,4 @@ This is my home page
 
 ## About Me :)
 
-My name is **Lauren**. I am in Graphic Design
+My name is **Lauren**. I am in the _Graphic Design_ program
