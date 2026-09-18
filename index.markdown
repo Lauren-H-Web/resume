@@ -41,6 +41,4 @@ I designed a book cover (*front and back*) for *The Great Gatsby* using a book f
 
 ![TGG Book Cover Mockup front](DESN156_ONA_A4_Mockup copy.jpg)
 
-]
-
 I worked on a book cover for an assignment with a book from the [Gultenburg Project](https://www.gutenberg.org) website. I chose to design a cover for The Great Gatsby 
