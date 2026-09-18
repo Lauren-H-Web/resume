@@ -35,6 +35,14 @@ This was one of the first class collaborative projects I worked on in college. F
 ![Album 1 Mockup front](Album-1-Front-Vinyl-Record-Mockup copy.jpg)
 ![Album 1 Mockup back](Album-1-Back-Vinyl-Record-Mockup copy.jpg)
 
+
+<img src="Album-2-Front-Vinyl-Record-Mockup copy.jpg" width="900">
+<img src="Album-2-Back-Vinyl-Record-Mockup copy.jpg" width="900">
+<img src="Album-1-Front-Vinyl-Record-Mockup copy.jpg" width="900">
+<img src="Album-1-Back-Vinyl-Record-Mockup copy.jpg" width="900">
+
+
+
 ### The Great Gatsby Book Cover
 
 I worked on a book cover for an assignment with a book from the [Gultenburg Project](https://www.gutenberg.org) website. I chose to design a cover for The Great Gatsby 
