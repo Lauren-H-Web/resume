@@ -30,12 +30,6 @@ In high school I was it M&T for a semester. I worked on some projects that would
 
 This was one of the first class collaborative projects I worked on in college. For this project I designed album covers for two made-up bands, using a music genre as a base. I chose grunge and pop music. 
 
-![Album 2 Mockup front](Album-2-Front-Vinyl-Record-Mockup copy.jpg)
-![Album 2 Mockup back](Album-2-Back-Vinyl-Record-Mockup copy.jpg)
-![Album 1 Mockup front](Album-1-Front-Vinyl-Record-Mockup copy.jpg)
-![Album 1 Mockup back](Album-1-Back-Vinyl-Record-Mockup copy.jpg)
-
-
 <img src="Album-2-Front-Vinyl-Record-Mockup copy.jpg" width="900">
 <img src="Album-2-Back-Vinyl-Record-Mockup copy.jpg" width="900">
 <img src="Album-1-Front-Vinyl-Record-Mockup copy.jpg" width="900">
